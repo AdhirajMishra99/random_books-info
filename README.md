@@ -32,11 +32,7 @@
 
 ## Output like this:
 
-- BOOK NAME: C Programming Language
-- AUTHOR: Brian W. Kernighan & Dennis Ritchie
-- BOOK PUBLISHED: 1988-03-22
-- E-Tag: uuTUtEuds1o
-- BOOK-ID: 73
+<img width="400" height="130" alt="image" src="https://github.com/user-attachments/assets/004a9f95-a568-4e93-9452-1ca6e74701ad" />
 
 ## About
 
