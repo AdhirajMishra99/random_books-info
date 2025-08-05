@@ -30,6 +30,14 @@
 - Endpoint: `https://api.freeapi.app/api/v1/public/stocks/stock/random`
 - This is a demo API and the data is randomly generated for learning/testing.
 
+## Output like this:
+
+- BOOK NAME: C Programming Language
+- AUTHOR: Brian W. Kernighan & Dennis Ritchie
+- BOOK PUBLISHED: 1988-03-22
+- E-Tag: uuTUtEuds1o
+- BOOK-ID: 73
+
 ## About
 
 A minimal and practical script created to demonstrate how to consume REST APIs in Python using the requests module.
